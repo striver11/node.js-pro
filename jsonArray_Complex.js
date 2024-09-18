@@ -30,7 +30,7 @@ let jsonArrayData = [
                                     "Members": [
                                         {
                                             "MemberName": "Charlie",
-                                            "Role": "Mobile Developer"
+                                            "Role": "developer"
                                         },
                                         {
                                             "MemberName": "David",
