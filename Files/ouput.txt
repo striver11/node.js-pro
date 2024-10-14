@@ -1,0 +1,3 @@
+Data read from the input.txt:This the sample input text file that is taken in order to test the readfilesynce
+. 
+ Date created Mon Oct 14 2024 20:48:37 GMT+0530 (India Standard Time)

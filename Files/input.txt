@@ -1,0 +1,1 @@
+This the sample input text file that is taken in order to test the readfilesynce
