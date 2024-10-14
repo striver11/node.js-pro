@@ -1,3 +1,11 @@
+/* 
+More Practical Use-Case: Fetching Data from an API and Writing to a File
+In real-world applications, you often need to fetch data from APIs and write it to files. 
+Here's an asynchronous example using fetch and fs.promises.
+
+ */
+
+
 import fs from 'fs/promises';  // ES module import
 import fetch from 'node-fetch'; // ES module import
 
@@ -7,6 +15,7 @@ fetch('https://dog.ceo/api/breeds/image/random')
     .then(async (data) => {
         console.log('Fetched data:', data);
 
+        
         // Create content to write
         let content = `Fetched Dog Image URL:\n${JSON.stringify(data, null, 2)}\n\nDate fetched: ${new Date()}`;
 

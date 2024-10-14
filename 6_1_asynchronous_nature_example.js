@@ -11,7 +11,7 @@ const fs = require('fs');
 // Read the input file asynchronously
 fs.readFile('./Files/input.txt', 'utf-8', (err, data) => {
     if (err) {
-        console.error('Error reading file:', err);
+        console.error('Error reading filge:', err);
         return;
     }
 
@@ -32,6 +32,7 @@ fs.readFile('./Files/input.txt', 'utf-8', (err, data) => {
 });
 
 console.log('This log happens before file operations complete');
+
 
 
 /* 
