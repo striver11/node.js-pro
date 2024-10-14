@@ -1,4 +1,6 @@
 {
+  "_comment": " the comment and below type This is added to indicate that 'type' is necessary for running ES modules.",
+  "type": "module",
   "dependencies": {
     "node-fetch": "^2.7.0"
   }
