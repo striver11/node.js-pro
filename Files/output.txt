@@ -6,4 +6,16 @@ Data read from input.txt: This the sample input text file that is taken in order
 Date created: Mon Oct 14 2024 21:19:32 GMT+0530 (India Standard Time)
 Data read from input.txt: This the sample input text file that is taken in order to test the readfilesynce
 . 
-Date created: Mon Oct 14 2024 21:20:43 GMT+0530 (India Standard Time)
+Date created: Mon Oct 14 2024 21:20:43 GMT+0530 (India Standard Time)Fetched Dog Image URL:
+{
+  "message": "https://images.dog.ceo/breeds/cotondetulear/IMAG1063.jpg",
+  "status": "success"
+}
+
+Date fetched: Mon Oct 14 2024 21:53:23 GMT+0530 (India Standard Time)Fetched Dog Image URL:
+{
+  "message": "https://images.dog.ceo/breeds/pointer-germanlonghair/hans3.jpg",
+  "status": "success"
+}
+
+Date fetched: Mon Oct 14 2024 21:53:49 GMT+0530 (India Standard Time)
