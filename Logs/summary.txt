@@ -1,0 +1,714 @@
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+[2024-10-12 10:45:32] INFO: User logged in successfully.
+[2024-10-12 11:02:15] WARN: Attempt to access restricted area.
+[2024-10-12 11:45:59] ERROR: Database connection failed.
+[2024-10-12 12:00:01] INFO: User logged out.
+
+[2024-10-13 09:15:21] INFO: System backup completed.
+[2024-10-13 09:45:12] INFO: New user registered.
+[2024-10-13 10:05:33] WARN: Disk space running low.
+[2024-10-13 11:35:47] ERROR: Failed to send email notification.
+
+[2024-10-14 08:22:18] INFO: Scheduled maintenance started.
+[2024-10-14 09:01:03] INFO: Maintenance completed successfully.
+[2024-10-14 10:15:49] INFO: Server rebooted.
+[2024-10-14 11:28:54] ERROR: Unauthorized login attempt detected.
