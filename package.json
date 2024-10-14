@@ -1,8 +1,8 @@
 {
-  "_comment": " the comment and below type This is added to indicate that 'type' is necessary for running ES modules and 6_2_2_asynchronous_example.js uses ES if we want to run
-  it it should have .mjs as extension instead of .js or we have to add the type in the package.json .",
+  "_comment": " the comment and below type This is added to indicate that 'type' is necessary for running ES modules and 6_2_2_asynchronous_example.js uses ES  it should have .mjs as extension instead of .js or we have to add the type in the package.json .           ",
   "type": "module",
   "dependencies": {
     "node-fetch": "^2.7.0"
   }
 }
+ 
