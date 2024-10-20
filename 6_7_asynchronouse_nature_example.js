@@ -93,7 +93,7 @@ try {
         host: 'localhost',
         user: 'root',           // Change this if you have a different user
         database: 'test_db',    // Your database name
-        password: 'password'     // Your password for the database user
+        password: 'password'     // Your password for the database user jsjs
     });
 This block attempts to create a connection to the MySQL database. 
 The await keyword pauses the execution of the code until the connection is successfully established.
@@ -282,4 +282,3 @@ Connection Issues: If you encounter connection issues, ensure that your MySQL se
 Permissions: Ensure that the user you are connecting with has the necessary permissions to access the database and read from the users table.
 Error Handling: The catch block will log any database errors that occur during execution, so check that output if you run into problems. 
 */
-

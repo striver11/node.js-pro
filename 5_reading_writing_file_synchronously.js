@@ -11,7 +11,7 @@ fs.writeFileSync('./Files/output.txt',content)
 let textIn2=fs.readFileSync('./Files/output.txt','utf-8');
 console.log(textIn2) 
 
-const fs = require('fs');
+// const fs = require('fs');
 
 // Read the input file
 
