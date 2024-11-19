@@ -9,6 +9,8 @@ const html=fs.readFileSync('Templates/index.html','utf-8')
 let products=JSON.parse(fs.readFileSync('Data/products.json','utf-8'))
 let productListHtml=fs.readFileSync('./Templates/product-list.html','utf-8')
 
+
+/* 
 let productHtmlArray=products.map((prod)=>{
     let output=productListHtml.replace('{{%IMAGE%}}',prod.productImage)
     output=output.replace('{{%NAME%}}',prod.name);
@@ -23,7 +25,21 @@ let productHtmlArray=products.map((prod)=>{
     return output;
 
 })
+ */
 
+function replaceHtml(template,product){
+    let template=productListHtml.replace('{{%IMAGE%}}',product.productImage)
+    output=output.replace('{{%NAME%}}',product.name);
+    output=output.replace('{{%MODELNAME%}}',product.nodeName);
+    output=output.replace('{{%MODELNO%}}',product.modelNumber);
+    output=output.replace('{{%SIZE%}}',product.size);
+    output=output.replace('{{%CAMERA%}}',product.camera);
+    output=output.replace('{{%PRICE%}}',product.price);
+    output=output.replace('{{%COLOR%}}',product.color);
+    output=output.replace('{{%ID%}}',product.id);
+    
+    return output;
+}
 //step1: create a server
 const server=http.createServer((req,res)=>{
     let {query,pathname:path}=url.parse(req.url,true)   //object destructuring syntax
@@ -54,9 +70,15 @@ const server=http.createServer((req,res)=>{
     else if(path.toLocaleLowerCase()=='/products'){
 
         if(!query.id){
+
+            let productHtmlArray =products.map((prod)=>{
+                replaceHtml(productListHtml,prod)
+            })
         let productResponseHtml=html.replace('{{%CONTENT%}}',productHtmlArray.join(','))
+       
        // res.writeHead(200,{'Content-Type':'application/json',});// change this to text/html
        res.writeHead(200,{'Content-Type':'text/html',});
+       res.end(productResponseHtml)
 /* 
         fs.readFile('Data/products.json','utf8',(error,data)=>{
            let products= JSON.parse(data)                               // this will read the json file for every request means 1000 request 1000 times reading it is not effecient so we are going to do it above see before server created
@@ -64,7 +86,7 @@ const server=http.createServer((req,res)=>{
         })
          */
 
-        res.end(productResponseHtml)
+        
         // console.log(productHtmlArray.join(','))
         }else{
             res.end('This is a product with ID='+query.id);
