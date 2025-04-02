@@ -1,3 +1,5 @@
+
+```
 graph TD
     subgraph Infrastructure
         A[Config Server] -->|Provides Configuration| B[Customers Service]
